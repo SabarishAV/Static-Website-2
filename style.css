@@ -1,0 +1,72 @@
+body{
+    overflow-x: hidden;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-brand{
+    margin-left: 2%;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: xx-large;
+}
+.col{
+    height: 100vh;
+    object-fit: cover;
+}
+.col img{
+    height: 100%;
+}
+.column-1{
+    height: fit-content;
+    margin-left: 5%;
+    font-family: Impact, fantasy;
+}
+.sm-box a{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    color: #d7c74c;
+}
+.sm-box{
+    background-color: white;
+    height: 6%;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+}
+.white-text{
+    color: white;
+}
+.row{
+    align-items: center;
+    background-color: #d7c74c;
+}
+.column-2{
+    margin: 0%;
+    padding: 0%;
+}
+.headings{
+    padding: 2%;
+}
+.writtings{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Space Grotesk', sans-serif;
+    padding-left: 2%;
+}
+.y-div{
+    margin-top: 3%;
+    background-color: #d7c74c;
+}
+.card{
+    width: 30%;
+    margin: 1%;
+}
+.ftr{
+    width: 100%;
+}
